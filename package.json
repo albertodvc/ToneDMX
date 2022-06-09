@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/albertodvc/ToneDMX/issues"
   },
-  "homepage": "https://github.com/albertodvc/ToneDMX#readme"
+  "homepage": "https://github.com/albertodvc/ToneDMX#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "tone": "^14.7.77"
+  }
 }
